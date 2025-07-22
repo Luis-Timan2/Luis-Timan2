@@ -18,10 +18,10 @@
 ## 🛠 Tecnologías que manejo
 
 ```
-Lenguajes:       C# • Java • JavaScript • Python (básico)
-Frontend:        HTML • CSS • React (básico) • Angular (con guía)
-Backend:         .NET Core • ASP.NET MVC
-Base de datos:   SQL Server • MySQL
+Lenguajes:       C# • Java • JavaScript • Python • AndoridStudio
+Frontend:        HTML • CSS • React • Angular
+Backend:         .NET Core • ASP.NET 
+Base de datos:   SQL Server • MySQL • MySQL
 Herramientas:    Git • GitHub • Visual Studio • VS Code
 ```
 
